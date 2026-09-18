@@ -15,17 +15,17 @@
     {
       "binding": "DB",
       "database_name": "sm-link-shortener-db",
-      "database_id": "REPLACE_WITH_YOUR_D1_DATABASE_ID",
+      "database_id": "5ecf7ba3-4ee8-4f3a-a1ae-0790ed9492b4",
       "migrations_dir": "migrations"
     }
   ],
   "kv_namespaces": [
     {
       "binding": "LINKS_KV",
-      "id": "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+      "id": "0a7ffdf92d0b4d679180b31e56caede2"
     }
   ],
   "vars": {
-    "APP_URL": "https://app.yourdomain.com"
+    "APP_URL": "https://sm-link-shortener.strongmommixpanel.workers.dev"
   }
 }
